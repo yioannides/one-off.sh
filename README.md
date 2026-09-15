@@ -4,7 +4,7 @@
 
 ## directory:
 
-#### ableton-live-dl.sh:
+### ableton-live-dl.sh:
 
 a command-line tool for downloading Ableton Live binaries
 (supports Intro, Lite, Standard, Suite)
@@ -27,7 +27,7 @@ Downloading Ableton Live 11.3.2...
 ...
 ```
 
-#### adwcolors.sh:
+### adwcolors.sh:
 
 a simple terminal script for displaying the Adwaita color palette for GNOME
 
