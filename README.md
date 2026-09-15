@@ -16,7 +16,16 @@ flags (required):
 - `--standard`: downloads the latest Suite version
 - `--suite`: downloads the latest Suite version
 
-OPTIONAL: older versions of Live, for example: `./ableton-live-dl.sh --suite 11.3.11`
+Example: `./ableton-live-dl.sh --suite`
+
+Optionally, you can also download older versions of Live, like:
+
+```sh
+~ ⟶ ./ableton-live-dl.sh --suite 11.3.2
+Searching for: 11.3.2
+Downloading Ableton Live 11.3.2...
+...
+```
 
 #### adwcolors.sh:
 
