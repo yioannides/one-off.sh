@@ -31,5 +31,5 @@ Downloading Ableton Live 11.3.2...
 
 a simple terminal script for displaying the Adwaita color palette for GNOME
 
-![showcase](https://github.com/user-attachments/assets/a5a4d712-8f65-40c8-88c9-ab438540f4d7)
+![showcase](https://github.com/user-attachments/assets/cec02629-ec81-48c6-863e-4986ea9187e2)
 
